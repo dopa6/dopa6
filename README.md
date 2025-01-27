@@ -11,7 +11,7 @@
 
 
 <br>
-<h4 align="center" style="color:red;">I'm from France 🇫🇷. <img src="https://png.pngtree.com/png-clipart/20240328/original/pngtree-realistic-french-croissant-png-image_14700026.png" width="60" /> <br><img src="https://asset-prod.france.fr/Design_sans_titre_87_31a5247967.jpg" width="60" /></h4>
+<h4 align="center" style="color:red;">I'm from France 🇫🇷. <img src="https://static.vecteezy.com/system/resources/thumbnails/017/340/369/small_2x/fresh-cooked-yellow-croissant-png.png" width="60" /> <br><img src="https://asset-prod.france.fr/Design_sans_titre_87_31a5247967.jpg" width="200" /></h4>
 
 
 <br>
