@@ -13,7 +13,7 @@
 
 
 <br>
-<h4 align="center" style="color:red;">I'm from France <img  src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-France.gif" width="40" /></h4>
+<h4 align="center" style="color:red;">I'm from France <img  src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-France.gif" width="20" /></h4>
 <br>
 
 
