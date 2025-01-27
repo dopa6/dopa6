@@ -2,18 +2,18 @@
 <h3 align="center" style="color:red;">Hi. I'm <b>Dopa</b>.</h3>
 <p align="center">that's my new account...</p>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dopa6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=fr&hide_border=false" height="110" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dopa6&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="110" alt="languages graph"  />
 </div>
 
-###
+
 <br>
 <h4 align="center" style="color:red;">I'm from France ! <br><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cc9937e4-c7cf-4174-9800-27d232c1565b/dfr51v6-961fb0f8-c93d-48b2-99e8-d37c34bb4159.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NjOTkzN2U0LWM3Y2YtNDE3NC05ODAwLTI3ZDIzMmMxNTY1YlwvZGZyNTF2Ni05NjFmYjBmOC1jOTNkLTQ4YjItOTllOC1kMzdjMzRiYjQxNTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.a5hyQO-IYhCCZXT38UZoEh2xBnKftmtugb6-7pd2HNw" width="60" /></h4>
 
-###
+
 <br>
 <div align="center" width="200px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -71,7 +71,7 @@
   
 </div>
 
-###
+
 <br>
 <div align="center">
   <a>
@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/static/v1?message=dddd@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 <br>
-###
+
 <br>
 <div align="center">
 <img align="center" height="280" src="https://i.pinimg.com/originals/f9/76/f0/f976f054182dcd795dcd10e4247b7d53.gif"  />
