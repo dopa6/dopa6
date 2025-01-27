@@ -9,11 +9,11 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/18/88/78/1888780ffbdc4b2170cb9ca688567988.gif"  />
+
 
 ###
-
-<div align="left">
+<br>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -81,9 +81,10 @@
 </div>
 
 ###
-
+<br>
+<img align="center" height="250" src="https://i.pinimg.com/originals/18/88/78/1888780ffbdc4b2170cb9ca688567988.gif"  />
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dopa6/dopa6/output/snake.svg" alt="Snake animation" />
+
 
 ###
