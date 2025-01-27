@@ -1,11 +1,5 @@
 <p align="center">Hi. My name is Dopa.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dopa6&label=Profile%20views&color=0e75b6&style=flat" alt="dopa6" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dopa6" alt="dopa6" /></a> </p>
-
-
-
 ###
 
 <div align="center">
