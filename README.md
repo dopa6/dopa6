@@ -1,6 +1,6 @@
 
 <h3 align="center" style="color:red;">Hi. My name is Dopa.</h3>
-<p>new account...</p>
+<p align="center">new account...</p>
 
 ###
 
@@ -73,16 +73,12 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
 ###
 <br>
-<img align="center" height="250" src="https://i.pinimg.com/originals/18/88/78/1888780ffbdc4b2170cb9ca688567988.gif"  />
-<br clear="both">
+<img align="center" height="250" src="[https://i.pinimg.com/originals/18/88/78/1888780ffbdc4b2170cb9ca688567988.gif](https://i.pinimg.com/originals/80/db/3b/80db3b88f81b7f6b65903d207061e255.gif)"  />
 
-
-
-###
