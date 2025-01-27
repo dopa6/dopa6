@@ -1,9 +1,5 @@
-<style>
-  p{
-    color:red;
-  }
-</style>
-<p align="center">Hi. My name is Dopa.</p>
+
+<p align="center" style="color:red;">Hi. My name is Dopa.</p>
 
 ###
 
