@@ -77,17 +77,19 @@
 
 
 <br>
-<div align="center">
-  <a>
-  <img src="https://img.shields.io/static/v1?message=victoriousconsul&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=dddd@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+
 <br>
 
 <br>
 <div align="center">
 <img align="center" height="280" src="https://i.pinimg.com/originals/f9/76/f0/f976f054182dcd795dcd10e4247b7d53.gif"  />
-  <br><br><br>
+  <br>
+  <div align="center">
+  <a>
+  <img src="https://img.shields.io/static/v1?message=victoriousconsul&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=dddd@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
+  <br><br>
   <p>some awesome stuff coming soon.. <img  src="https://i.pinimg.com/originals/aa/60/a5/aa60a5d29e381958e7244e3be3a78909.gif" width="20" /></p>
 </div>
 
