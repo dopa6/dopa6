@@ -11,7 +11,7 @@
 
 
 <br>
-<h4 align="center" style="color:red;">I'm from France 🇫🇷. <img src="https://static.vecteezy.com/system/resources/thumbnails/017/340/369/small_2x/fresh-cooked-yellow-croissant-png.png" width="60" /> <br></h4>
+<h4 align="center" style="color:red;">I'm from France 🇫🇷. <br></h4>
 <br>
 <div align="center">
 <img  src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-France.gif" width="200" />
