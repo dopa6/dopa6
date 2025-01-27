@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="center" style="color:red;">I'm from France !.</h3>
+<h3 align="center" style="color:red;">I'm from France ! <img src="https://pngimg.com/d/napoleon_PNG21.png" height="30" alt="javascript logo"  /></h3>
 
 ###
 <br>
