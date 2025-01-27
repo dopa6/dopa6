@@ -87,6 +87,7 @@
 <br>
 <div align="center">
 <img align="center" height="280" src="https://i.pinimg.com/originals/f9/76/f0/f976f054182dcd795dcd10e4247b7d53.gif"  />
-  <p>some awesome stuff coming soon..</p>
+  <br>
+  <p>some awesome stuff coming soon.. <img  src="https://i.pinimg.com/originals/aa/60/a5/aa60a5d29e381958e7244e3be3a78909.gif" width="20" /></p>
 </div>
 
