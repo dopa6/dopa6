@@ -9,12 +9,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dopa6&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="110" alt="languages graph"  />
 </div>
 
-
-<br>
-<h4 align="center" style="color:red;">I'm from France 🇫🇷. <br></h4>
-<br>
 <div align="center">
+<br>
+<h4 align="left" style="color:red;">I'm from France 🇫🇷.</h4>
+<br>
+<div align="right">
 <img  src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-France.gif" width="200" />
+</div>
 </div>
 
 <br>
