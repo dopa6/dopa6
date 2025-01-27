@@ -1,6 +1,6 @@
 
 <h3 align="center" style="color:red;">Hi. My name is Dopa.</h3>
-<p align="center">new account...</p>
+<p align="center">that's my new account...</p>
 
 ###
 
@@ -80,5 +80,7 @@
 
 ###
 <br>
-<img align="center" height="250" src="https://i.pinimg.com/originals/f9/76/f0/f976f054182dcd795dcd10e4247b7d53.gif"  />
+<div align="center">
+<img align="center" height="280" src="https://i.pinimg.com/originals/f9/76/f0/f976f054182dcd795dcd10e4247b7d53.gif"  />
+</div>
 
