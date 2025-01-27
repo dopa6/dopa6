@@ -1,8 +1,8 @@
 <div align="center">
 <img  src="https://i.pinimg.com/originals/a7/28/80/a728806e554ff1dd7f5b8481c7388b6a.gif" width="100" />
 </div>
-<h3 align="center" style="color:red;">Hi. I'm <b>Dopa</b>.</h3>
-<h4 align="center" style="color:red;">I'm from France <img  src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-France.gif" width="20" /></h4>
+<h2 align="center" style="color:red;">Hi. I'm <b>Dopa</b>.</h2>
+<h3 align="center" style="color:red;">I'm from France <img  src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Animated-Flag-France.gif" width="20" /></h3>
 <p align="center">that's my new account...</p>
 
 
