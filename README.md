@@ -1,4 +1,6 @@
-
+<div align="center">
+<img  src="https://i.pinimg.com/originals/a7/28/80/a728806e554ff1dd7f5b8481c7388b6a.gif" width="200" />
+</div>
 <h3 align="center" style="color:red;">Hi. I'm <b>Dopa</b>.</h3>
 <p align="center">that's my new account...</p>
 
