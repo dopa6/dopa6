@@ -90,8 +90,7 @@
   <br><br>
   <div align="center">
   <a>
-  <img src="https://img.shields.io/static/v1?message=victoriousconsul&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=dddd@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=dopa06&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
   <br><br>
   <p>some awesome stuff coming soon.. <img  src="https://i.pinimg.com/originals/aa/60/a5/aa60a5d29e381958e7244e3be3a78909.gif" width="20" /></p>
